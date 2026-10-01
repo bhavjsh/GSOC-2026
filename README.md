@@ -10,15 +10,15 @@
 | **Organization** | [FOSSASIA](https://github.com/fossasia) |
 | **Project Title** | Enhancement and Feature Development of FOSSASIA Flutter Apps for PSLab and Smart Badges |
 | **Repositories** | [pslab-app](https://github.com/fossasia/pslab-app), [badgemagic-app](https://github.com/fossasia/badgemagic-app), [magic-epaper-app](https://github.com/fossasia/magic-epaper-app) |
-| **Mentors** | [Mario Behling](https://github.com/mariobehling), [Marc Nause](https://github.com/marcnause), [Vishveshwara Uthayakumaran](https://github.com/Vishveshwara), [Dhruv Rastogi](https://github.com/Dhruv1797) |
+| **Mentors** | [Mario Behling](https://github.com/mariobehling), [Marc Nause](https://github.com/marcna​use), [Vishveshwara Uthayakumaran](https://github.com/Vishveshwara), [Dhruv Rastogi](https://github.com/Dhruv1797) |
 
 ---
 
 ## 1. Project Overview
 
-The GSoC 2026 journey began by working across FOSSASIA's Flutter apps, including **PSLab**, which helped build a solid understanding of the codebases, review process, and tooling used across the organization.
+The GSoC 2026 journey began by working across FOSSASIA's Flutter applications, including **PSLab, Badge Magic, and Magic ePaper**. This helped build a solid understanding of the different codebases, project structures, development workflows, and tooling used across the organization.
 
-From there, the focus moved into FOSSASIA's **smart badge ecosystem**, including the **Badge Magic app** (LED badge design and transfer tool) and the **Magic ePaper app** (NFC e-paper card and tag designer), where the majority of GSoC deliverables were built and shipped across the coding period.
+The focus then moved into FOSSASIA's **smart badge ecosystem**, particularly the **Badge Magic app** (LED badge design and transfer tool) and the **Magic ePaper app** (NFC e-paper card and tag designer), where the majority of GSoC deliverables were developed and shipped throughout the coding period.
 
 ---
 
@@ -26,7 +26,7 @@ From there, the focus moved into FOSSASIA's **smart badge ecosystem**, including
 
 | Phase | Period | Focus |
 |---|---|---|
-| **Community Bonding** | May 1 – May 25, 2026 | PSLab |
+| **Community Bonding** | May 1 – May 25, 2026 | PSLab, Badge Magic, Magic ePaper |
 | **Before Midterm** | May 26 – July 31, 2026 | Badge Magic, Magic ePaper |
 | **After Midterm** | August 1 – October 4, 2026 | Badge Magic, Magic ePaper |
 
@@ -34,19 +34,22 @@ From there, the focus moved into FOSSASIA's **smart badge ecosystem**, including
 
 # 3. Community Bonding Period
 
-## 3.1 PSLab App
+During the community bonding period, I initially worked across all three FOSSASIA Flutter repositories: **PSLab, Badge Magic, and Magic ePaper**. This helped me become familiar with the different codebases, development workflows, project structures and the overall FOSSASIA ecosystem before moving into the main coding period.
 
-Community bonding was spent getting familiar with FOSSASIA's apps and workflow by contributing to the **PSLab Flutter app**.
+## 3.1 Initial Work Across the Repositories
+
+The initial contributions included work across the three applications, with a primary focus on understanding the existing codebases and addressing initial issues and improvements.
 
 ### Key Contributions
 
-- Added desktop mouse-wheel and keyboard support and recording playback controls across the Oscilloscope, Logic Analyzer, Multimeter, and Power Source instrument screens.
-- Fixed responsiveness of the Accelerometer, Gyroscope, and other instrument screens across desktop window sizes.
-- Added Hindi language support and a `-v` / `--version` CLI flag to print the app version.
+- Added desktop mouse-wheel and keyboard support and recording playback controls across the PSLab Oscilloscope, Logic Analyzer, Multimeter, and Power Source instrument screens.
+- Fixed responsiveness of the PSLab Accelerometer, Gyroscope, and other instrument screens across different desktop window sizes.
+- Added Hindi language support and a `-v` / `--version` CLI flag to print the PSLab app version.
 - Fixed the macOS CI build by pinning the Xcode version and deduplicated save-filename dialog logic across instrument screens.
-- Implemented several smaller fixes, including preventing overwrite during app branch upload and adding arrow-key/Enter navigation for oscilloscope playback.
+- Worked on initial improvements and fixes in the Badge Magic and Magic ePaper codebases while becoming familiar with their architecture and workflows.
+- Implemented several smaller fixes, including preventing overwrite during app branch upload and adding arrow-key/Enter navigation for PSLab oscilloscope playback.
 
-This provided solid hands-on experience with the codebase and contribution process ahead of the coding period.
+This period provided a foundation for working across the three applications and prepared the codebases for the larger feature development carried out during the coding period.
 
 ### Contributions
 
@@ -84,7 +87,7 @@ After the community bonding period, the focus shifted to FOSSASIA's smart badge 
 
 - Added multiple card templates, including Event Badge, Entry Pass Tag, and more, and built out the card-template editing and preview flow.
 - Added barcode upload support and improved the scanner UI.
-- Implemented a full set of dithering methods like **Bayer ordered**, **Sierra-2 (two-row)**, and **Burkes** with gamma-corrected grayscale conversion for accurate e-paper rendering.
+- Implemented a full set of dithering methods — **Bayer ordered**, **Sierra-2 (two-row)**, and **Burkes** — with gamma-corrected grayscale conversion for accurate e-paper rendering.
 - Added support for the **Waveshare 2.13" (G) 4-color NFC** e-paper display.
 - Built an in-house lightweight canvas editor for the Open Editor flow, keeping canvas designs editable via the image library.
 - Added Hindi localization, graceful error handling for the image library, an open-source licenses screen, and various responsiveness and UI fixes, including a compact two-column mobile layout, AppBar improvements, and desktop icon/window title improvements.
@@ -144,26 +147,21 @@ After the community bonding period, the focus shifted to FOSSASIA's smart badge 
 
 # 6. Screenshots and Demonstrations
 
-## 6.1 PSLab
+## 6.1 Badge Magic
 
-### Screenshot 
----
-
-## 6.2 Badge Magic
-
-### Screenshot 
+### Ss
 
 ---
 
-## 6.3 Magic ePaper
+## 6.2 Magic ePaper
 
-### Screenshot 
+### Ss
 
 ---
 
 # 7. Challenges and Learnings
 
-- Working across three Flutter codebases with different conventions, each with their own mentors and review processes.
+- Working across different repositories and adapting to different codebases, architectures, and project structures.
 - Implementing dithering algorithms, including Bayer, Sierra-2, and Burkes, along with a Rust dithering pipeline for accurate and performant e-paper rendering.
 - Building responsive layouts that work well across both mobile and desktop, including mouse and keyboard support.
 - Handling NFC and USB HID communication with real hardware displays.
