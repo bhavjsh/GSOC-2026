@@ -24,11 +24,11 @@ The focus then moved into FOSSASIA's **smart badge ecosystem**, particularly the
 
 ## 2. Timeline
 
-| Phase | Period | Focus |
-|---|---|---|
-| **Community Bonding** | May 1 – May 25, 2026 | PSLab, Badge Magic, Magic ePaper |
-| **Before Midterm** | May 26 – July 31, 2026 | Badge Magic, Magic ePaper |
-| **After Midterm** | August 1 – October 4, 2026 | Badge Magic, Magic ePaper |
+| Phase | Focus |
+|---|---|
+| **Community Bonding** | PSLab, Badge Magic, Magic ePaper |
+| **Before Midterm** | Badge Magic, Magic ePaper |
+| **After Midterm** | Badge Magic, Magic ePaper |
 
 ---
 
@@ -83,7 +83,7 @@ After the community bonding period, the focus shifted to FOSSASIA's smart badge 
 
 ## 4.2 Magic ePaper App
 
-### Key Contributions
+### Key Contributions 
 
 - Added multiple card templates, including Event Badge, Entry Pass Tag, and more, and built out the card-template editing and preview flow.
 - Added barcode upload support and improved the scanner UI.
@@ -124,7 +124,7 @@ After the community bonding period, the focus shifted to FOSSASIA's smart badge 
 
 ## 5.2 Magic ePaper App
 
-### Key Contributions
+### Key Contributions [Made it ready for BETA testing]
 
 - Added additional card templates, including QR Tag, Weather Snapshot, Contact Business, Calendar, and Restaurant Menu, along with **bulk CSV data import for card templates** to support large events.
 - Implemented an **OCR scan** feature and a **sketch filter**.
