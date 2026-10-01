@@ -87,7 +87,7 @@ After the community bonding period, the focus shifted to FOSSASIA's smart badge 
 
 - Added multiple card templates, including Event Badge, Entry Pass Tag, and more, and built out the card-template editing and preview flow.
 - Added barcode upload support and improved the scanner UI.
-- Implemented a full set of dithering methods — **Bayer ordered**, **Sierra-2 (two-row)**, and **Burkes** — with gamma-corrected grayscale conversion for accurate e-paper rendering.
+- Implemented a full set of dithering methods like **Bayer ordered**, **Sierra-2 (two-row)**, and **Burkes** with gamma-corrected grayscale conversion for accurate e-paper rendering.
 - Added support for the **Waveshare 2.13" (G) 4-color NFC** e-paper display.
 - Built an in-house lightweight canvas editor for the Open Editor flow, keeping canvas designs editable via the image library.
 - Added Hindi localization, graceful error handling for the image library, an open-source licenses screen, and various responsiveness and UI fixes, including a compact two-column mobile layout, AppBar improvements, and desktop icon/window title improvements.
