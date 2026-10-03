@@ -172,7 +172,7 @@ The final phase expanded Magic ePaper with more templates, image-processing feat
 
 **USB HID Transfer**
 
-<img width="360" alt="USB HID Transfer" src="https://github.com/user-attachments/assets/c90fc170-70b9-4666-bc1f-9bf40400208d" />
+<img width="360" alt="USB HID Transfer" src="assets/usb-hid-transfer.jpeg" />
 
 </td>
 
@@ -180,7 +180,7 @@ The final phase expanded Magic ePaper with more templates, image-processing feat
 
 **Badge Import via QR Code**
 
-<img width="360" alt="Badge Import via QR Code" src="https://github.com/user-attachments/assets/59da50d0-da7a-45eb-a538-2a36b1be563d" />
+<img width="360" alt="Badge Import via QR Code" src="assets/badge-import-qr.jpeg" />
 
 </td>
 
@@ -188,7 +188,7 @@ The final phase expanded Magic ePaper with more templates, image-processing feat
 
 **Clipart Picker**
 
-<img width="360" alt="Clipart Picker" src="https://github.com/user-attachments/assets/1fb4079d-efb1-4fd7-aaa0-dc0779dfa20b" />
+<img width="360" alt="Clipart Picker" src="assets/clipart-picker.jpeg" />
 
 </td>
 </tr>
@@ -198,7 +198,7 @@ The final phase expanded Magic ePaper with more templates, image-processing feat
 
 **USB Settings**
 
-<img width="360" alt="USB Settings" src="https://github.com/user-attachments/assets/b5727880-a48c-4ad6-8d20-ebff2469b0a6" />
+<img width="360" alt="USB Settings" src="assets/usb-settings.jpeg" />
 
 </td>
 
@@ -206,7 +206,7 @@ The final phase expanded Magic ePaper with more templates, image-processing feat
 
 **Animation Gallery**
 
-<img width="360" alt="Animation Gallery" src="https://github.com/user-attachments/assets/e8ffb906-7aad-40c4-a54f-a3b338bfd574" />
+<img width="360" alt="Animation Gallery" src="assets/animation-gallery.jpeg" />
 
 </td>
 
@@ -214,7 +214,7 @@ The final phase expanded Magic ePaper with more templates, image-processing feat
 
 **Save Badge Dialog**
 
-<img width="360" alt="Save Badge Dialog" src="https://github.com/user-attachments/assets/86afb717-c25f-44e7-883a-60fc3a49b0fa" />
+<img width="360" alt="Save Badge Dialog" src="assets/save-badge-dialog.jpeg" />
 
 </td>
 </tr>
@@ -228,7 +228,7 @@ The final phase expanded Magic ePaper with more templates, image-processing feat
 
 **Card Templates**
 
-<img width="360" alt="Card Templates" src="https://github.com/user-attachments/assets/3fd1ac33-64ef-4f25-b104-765bc13c6869" />
+<img width="360" alt="Card Templates" src="assets/card-templates.jpeg" />
 
 </td>
 
@@ -236,7 +236,7 @@ The final phase expanded Magic ePaper with more templates, image-processing feat
 
 **Editable Image**
 
-<img width="360" alt="Editable Image" src="https://github.com/user-attachments/assets/633e7736-e4ed-4578-aa67-fc1f01f97538" />
+<img width="360" alt="Editable Image" src="assets/editable-image.jpeg" />
 
 </td>
 
@@ -244,7 +244,7 @@ The final phase expanded Magic ePaper with more templates, image-processing feat
 
 **Barcode Upload**
 
-<img width="360" alt="Barcode Upload" src="https://github.com/user-attachments/assets/53dcb245-dd01-4ebc-9465-9eedc5f3e4b5" />
+<img width="360" alt="Barcode Upload" src="assets/barcode-upload.jpeg" />
 
 </td>
 </tr>
@@ -254,7 +254,7 @@ The final phase expanded Magic ePaper with more templates, image-processing feat
 
 **Dithering Algorithms**
 
-<img width="360" alt="Dithering Algorithms" src="https://github.com/user-attachments/assets/00511f84-413d-4d6e-b3b5-689b8ce06d29" />
+<img width="360" alt="Dithering Algorithms" src="assets/dithering-algorithms.jpeg" />
 
 </td>
 
@@ -262,7 +262,7 @@ The final phase expanded Magic ePaper with more templates, image-processing feat
 
 **Native Canvas Editor**
 
-<img width="360" alt="Native Canvas Editor" src="https://github.com/user-attachments/assets/d37a447e-7412-4cd4-b7a9-30d52dd13406" />
+<img width="360" alt="Native Canvas Editor" src="assets/native-canvas-editor.jpeg" />
 
 </td>
 
@@ -270,7 +270,7 @@ The final phase expanded Magic ePaper with more templates, image-processing feat
 
 **Bulk CSV Import**
 
-<img width="360" alt="Bulk CSV Import" src="https://github.com/user-attachments/assets/56e12fef-301e-474a-8395-b960c30428c0" />
+<img width="360" alt="Bulk CSV Import" src="assets/bulk-csv-import.jpeg" />
 
 </td>
 </tr>
@@ -280,7 +280,7 @@ The final phase expanded Magic ePaper with more templates, image-processing feat
 
 **Santek EZ Sign 2.13" NFC E-Paper Display**
 
-<img width="800" alt="Santek EZ Sign 2.13 inch NFC e-paper display" src="https://github.com/user-attachments/assets/054a73e4-08bd-4b1e-8145-a7077c44c630" />
+<img width="800" alt="Santek EZ Sign 2.13 inch NFC e-paper display" src="assets/santek-ez-sign-display.jpeg" />
 
 </td>
 </tr>
