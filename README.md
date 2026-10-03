@@ -30,7 +30,7 @@ Most of my feature development and contributions during GSoC were focused on the
 
 # 3. Community Bonding Period
 
-During community bonding, I initially worked across all three repositories — **PSLab, Badge Magic, and Magic ePaper**. The main goal was to get familiar with the applications while working on fixes, improvements, and smaller features.
+During community bonding, I initially worked across all three repositories **PSLab, Badge Magic, and Magic ePaper**. The main goal was to get familiar with the applications while working on fixes, improvements, and smaller features.
 
 ## 3.1 PSLab
 
