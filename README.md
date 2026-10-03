@@ -61,17 +61,17 @@ The first phase of work on Badge Magic focused on improving the badge creation w
 
 ### Key Contributions
 
-- Improved the **[clipart picker and preview](https://github.com/fossasia/badgemagic-app/pulls?q=is%3Apr+is%3Amerged+author%3Abhavjsh+clipart)**, including transparency, spacing, and ordering of recently added cliparts.
-- Added a **[200-character validation limit to the save-badge dialog](https://github.com/fossasia/badgemagic-app/pulls?q=is%3Apr+is%3Amerged+author%3Abhavjsh+200+character)** and fixed persistence issues.
-- Fixed **[save-badge dialog persistence](https://github.com/fossasia/badgemagic-app/pulls?q=is%3Apr+is%3Amerged+author%3Abhavjsh+save+badge)**.
-- Fixed **[speed dialer persistence](https://github.com/fossasia/badgemagic-app/pulls?q=is%3Apr+is%3Amerged+author%3Abhavjsh+speed+dial)**.
-- Fixed **[preview text persistence](https://github.com/fossasia/badgemagic-app/pulls?q=is%3Apr+is%3Amerged+author%3Abhavjsh+preview+text)** across navigation.
-- Fixed **[default font handling for narrow characters](https://github.com/fossasia/badgemagic-app/pulls?q=is%3Apr+is%3Amerged+author%3Abhavjsh+font)**.
-- Prevented **[empty cliparts from being saved](https://github.com/fossasia/badgemagic-app/pulls?q=is%3Apr+is%3Amerged+author%3Abhavjsh+empty+clipart)**.
-- Added **[`AGENTS.md` contributor documentation](https://github.com/fossasia/badgemagic-app/pulls?q=is%3Apr+is%3Amerged+author%3Abhavjsh+AGENTS)**.
-- Added **[launcher icons](https://github.com/fossasia/badgemagic-app/pulls?q=is%3Apr+is%3Amerged+author%3Abhavjsh+launcher+icon)** for supported platforms.
-- Fixed the **[erase toolbar icon](https://github.com/fossasia/badgemagic-app/pulls?q=is%3Apr+is%3Amerged+author%3Abhavjsh+erase)**.
-- Fixed the **[redirect-after-save behaviour](https://github.com/fossasia/badgemagic-app/pulls?q=is%3Apr+is%3Amerged+author%3Abhavjsh+redirect+save)**.
+- Improved the clipart picker and preview, including **[transparency](https://github.com/fossasia/badgemagic-app/pull/1725)**, **[spacing](https://github.com/fossasia/badgemagic-app/pull/1711)**, and **[ordering of recently added cliparts](https://github.com/fossasia/badgemagic-app/pull/1684)**.
+- Added a **[200-character validation limit to the save-badge dialog](https://github.com/fossasia/badgemagic-app/pull/1710)** and fixed persistence issues.
+- Fixed **[save-badge dialog persistence](https://github.com/fossasia/badgemagic-app/pull/1710)**.
+- Fixed **[speed dialer persistence](https://github.com/fossasia/badgemagic-app/pull/1709)**.
+- Fixed **[preview text persistence](https://github.com/fossasia/badgemagic-app/pull/1709)** across navigation.
+- Fixed **[default font handling for narrow characters](https://github.com/fossasia/badgemagic-app/pull/1722)**.
+- Prevented **[empty cliparts from being saved](https://github.com/fossasia/badgemagic-app/pull/1704)**.
+- Added **[`AGENTS.md` contributor documentation](https://github.com/fossasia/badgemagic-app/pull/1698)**.
+- Added **[launcher icons](https://github.com/fossasia/badgemagic-app/pull/1676)** for supported platforms.
+- Fixed the **[erase toolbar icon](https://github.com/fossasia/badgemagic-app/pull/1685)**.
+- Fixed the **[redirect-after-save behaviour](https://github.com/fossasia/badgemagic-app/pull/1680)**.
 
 **33 merged pull requests in total, including 20 during this phase**
 
@@ -83,21 +83,21 @@ The first phase of Magic ePaper focused on templates, image processing, e-paper 
 
 ### Key Contributions
 
-- Added **[card templates](https://github.com/fossasia/magic-epaper-app/pulls?q=is%3Apr+is%3Amerged+author%3Abhavjsh+template)** including Event Badge and Entry Pass Tag, together with their editing and preview flow.
-- Added **[barcode upload](https://github.com/fossasia/magic-epaper-app/pulls?q=is%3Apr+is%3Amerged+author%3Abhavjsh+barcode)** support and improved the scanner UI.
-- Implemented **[Bayer ordered dithering](https://github.com/fossasia/magic-epaper-app/pulls?q=is%3Apr+is%3Amerged+author%3Abhavjsh+Bayer)**.
-- Implemented **[Sierra-2 dithering](https://github.com/fossasia/magic-epaper-app/pulls?q=is%3Apr+is%3Amerged+author%3Abhavjsh+Sierra)**.
-- Implemented **[Burkes dithering](https://github.com/fossasia/magic-epaper-app/pulls?q=is%3Apr+is%3Amerged+author%3Abhavjsh+Burkes)**.
-- Added **[gamma-corrected grayscale conversion](https://github.com/fossasia/magic-epaper-app/pulls?q=is%3Apr+is%3Amerged+author%3Abhavjsh+gamma)** for improved e-paper rendering.
-- Added support for the **[Waveshare 2.13" (G) 4-color NFC e-paper display](https://github.com/fossasia/magic-epaper-app/pulls?q=is%3Apr+is%3Amerged+author%3Abhavjsh+Waveshare+2.13)**.
-- Built a **[native canvas editor](https://github.com/fossasia/magic-epaper-app/pulls?q=is%3Apr+is%3Amerged+author%3Abhavjsh+canvas)** for the Open Editor flow.
-- Added **[Hindi localization](https://github.com/fossasia/magic-epaper-app/pulls?q=is%3Apr+is%3Amerged+author%3Abhavjsh+Hindi)**.
-- Improved **[image-library error handling](https://github.com/fossasia/magic-epaper-app/pulls?q=is%3Apr+is%3Amerged+author%3Abhavjsh+image+library)**.
-- Added an **[open-source licenses screen](https://github.com/fossasia/magic-epaper-app/pulls?q=is%3Apr+is%3Amerged+author%3Abhavjsh+license)**.
-- Improved **[mobile and desktop responsiveness](https://github.com/fossasia/magic-epaper-app/pulls?q=is%3Apr+is%3Amerged+author%3Abhavjsh+responsive)**.
-- Added **[`AGENTS.md`](https://github.com/fossasia/magic-epaper-app/pulls?q=is%3Apr+is%3Amerged+author%3Abhavjsh+AGENTS)** contributor documentation.
-- Added **[issue and pull request templates](https://github.com/fossasia/magic-epaper-app/pulls?q=is%3Apr+is%3Amerged+author%3Abhavjsh+template)**.
-- Fixed **[CI artifact upload issues](https://github.com/fossasia/magic-epaper-app/pulls?q=is%3Apr+is%3Amerged+author%3Abhavjsh+CI+artifact)**.
+- Added **[card templates](https://github.com/fossasia/magic-epaper-app/pull/426)** including Event Badge and Entry Pass Tag, together with their **[editing and preview flow](https://github.com/fossasia/magic-epaper-app/pull/457)**.
+- Added **[barcode upload](https://github.com/fossasia/magic-epaper-app/pull/412)** support and improved the scanner UI.
+- Implemented **[Bayer ordered dithering](https://github.com/fossasia/magic-epaper-app/pull/519)**.
+- Implemented **[Sierra-2 dithering](https://github.com/fossasia/magic-epaper-app/pull/532)**.
+- Implemented **[Burkes dithering](https://github.com/fossasia/magic-epaper-app/pull/533)**.
+- Added **[gamma-corrected grayscale conversion](https://github.com/fossasia/magic-epaper-app/pull/529)** for improved e-paper rendering.
+- Added support for the **[Waveshare 2.13" (G) 4-color NFC e-paper display](https://github.com/fossasia/magic-epaper-app/pull/527)**.
+- Built a **[native canvas editor](https://github.com/fossasia/magic-epaper-app/pull/487)** for the Open Editor flow.
+- Added **[Hindi localization](https://github.com/fossasia/magic-epaper-app/pull/439)**.
+- Improved **[image-library error handling](https://github.com/fossasia/magic-epaper-app/pull/512)**.
+- Added an **[open-source licenses screen](https://github.com/fossasia/magic-epaper-app/pull/484)**.
+- Improved **[mobile](https://github.com/fossasia/magic-epaper-app/pull/466)** and **[desktop](https://github.com/fossasia/magic-epaper-app/pull/469)** responsiveness.
+- Added **[`AGENTS.md`](https://github.com/fossasia/magic-epaper-app/pull/398)** contributor documentation.
+- Added **[issue](https://github.com/fossasia/magic-epaper-app/pull/323)** and **[pull request](https://github.com/fossasia/magic-epaper-app/pull/322)** templates.
+- Fixed **[CI artifact upload issues](https://github.com/fossasia/magic-epaper-app/pull/459)**.
 
 **65 merged pull requests in total, including 38 during this phase**
 
@@ -111,20 +111,20 @@ The second phase focused more heavily on hardware communication, desktop support
 
 ### Key Contributions
 
-- Added **[USB HID transfer support](https://github.com/fossasia/badgemagic-app/pulls?q=is%3Apr+is%3Amerged+author%3Abhavjsh+USB+HID)**, including Windows USB support, allowing badges to be transferred directly from desktop.
-- Integrated the **[animated GIF gallery](https://github.com/fossasia/badgemagic-app/pulls?q=is%3Apr+is%3Amerged+author%3Abhavjsh+GIF)** into the Home/Animation tab.
-- Added **[mouse-scroll support for the speed dial](https://github.com/fossasia/badgemagic-app/pulls?q=is%3Apr+is%3Amerged+author%3Abhavjsh+mouse+scroll)** on desktop.
-- Added **[shared logging](https://github.com/fossasia/badgemagic-app/pulls?q=is%3Apr+is%3Amerged+author%3Abhavjsh+logger)** as part of the codebase refactor.
-- Split **[`FileHelper` and large screens into focused classes](https://github.com/fossasia/badgemagic-app/pulls?q=is%3Apr+is%3Amerged+author%3Abhavjsh+FileHelper)**.
-- Centralized UI colors in **[`theme/colors.dart`](https://github.com/fossasia/badgemagic-app/pulls?q=is%3Apr+is%3Amerged+author%3Abhavjsh+colors)**.
-- **[Reorganized folders](https://github.com/fossasia/badgemagic-app/pulls?q=is%3Apr+is%3Amerged+author%3Abhavjsh+reorganize+folders)** and normalized filenames to `snake_case`.
-- Added **[badge sharing and import via QR code](https://github.com/fossasia/badgemagic-app/pulls?q=is%3Apr+is%3Amerged+author%3Abhavjsh+QR)**.
-- Added an **[open-source licenses screen](https://github.com/fossasia/badgemagic-app/pulls?q=is%3Apr+is%3Amerged+author%3Abhavjsh+license)**.
-- Fixed the **[Linux build](https://github.com/fossasia/badgemagic-app/pulls?q=is%3Apr+is%3Amerged+author%3Abhavjsh+Linux)**.
-- Improved the **[desktop home-screen layout](https://github.com/fossasia/badgemagic-app/pulls?q=is%3Apr+is%3Amerged+author%3Abhavjsh+desktop+home)**.
-- Fixed **[clipart sizing and grouping](https://github.com/fossasia/badgemagic-app/pulls?q=is%3Apr+is%3Amerged+author%3Abhavjsh+clipart+sizing)** issues.
-- Improved **[saved-badge previews and layouts](https://github.com/fossasia/badgemagic-app/pulls?q=is%3Apr+is%3Amerged+author%3Abhavjsh+saved+badge+preview)**.
-- Fixed **[naming issues](https://github.com/fossasia/badgemagic-app/pulls?q=is%3Apr+is%3Amerged+author%3Abhavjsh+naming)** across the application.
+- Added **[USB HID transfer support](https://github.com/fossasia/badgemagic-app/pull/1825)**, including **[Windows USB support](https://github.com/fossasia/badgemagic-app/pull/1822)**, allowing badges to be transferred directly from desktop.
+- Integrated the **[animated GIF gallery](https://github.com/fossasia/badgemagic-app/pull/1859)** into the **[Home/Animation tab](https://github.com/fossasia/badgemagic-app/pull/1933)**.
+- Added **[mouse-scroll support for the speed dial](https://github.com/fossasia/badgemagic-app/pull/1923)** on desktop.
+- Added **[shared logging](https://github.com/fossasia/badgemagic-app/pull/1897)** as part of the codebase refactor.
+- Split **[`FileHelper`](https://github.com/fossasia/badgemagic-app/pull/1891)** and **[large screens](https://github.com/fossasia/badgemagic-app/pull/1871)** into focused classes.
+- Centralized UI colors in **[`theme/color.dart`](https://github.com/fossasia/badgemagic-app/pull/1849)**.
+- **[Reorganized folders](https://github.com/fossasia/badgemagic-app/pull/1862)** and **[normalized filenames to `snake_case`](https://github.com/fossasia/badgemagic-app/pull/1858)**.
+- Added **[badge sharing and import via QR code](https://github.com/fossasia/badgemagic-app/pull/1779)**.
+- Added an **[open-source licenses screen](https://github.com/fossasia/badgemagic-app/pull/1794)**.
+- Fixed the **[Linux build](https://github.com/fossasia/badgemagic-app/pull/1820)**.
+- Improved the **[desktop home-screen layout](https://github.com/fossasia/badgemagic-app/pull/1821)**.
+- Fixed **[clipart sizing and grouping](https://github.com/fossasia/badgemagic-app/pull/1740)** issues.
+- Improved **[saved-badge previews and layouts](https://github.com/fossasia/badgemagic-app/pull/1754)**.
+- Fixed **[naming issues](https://github.com/fossasia/badgemagic-app/pull/1865)** across the application.
 
 **33 merged pull requests in total, including 13 during this phase**
 
@@ -136,26 +136,27 @@ The final phase expanded Magic ePaper with more templates, image-processing feat
 
 ### Key Contributions
 
-- Added **[QR Tag](https://github.com/fossasia/magic-epaper-app/pulls?q=is%3Apr+is%3Amerged+author%3Abhavjsh+QR+Tag)** card templates.
-- Added **[Weather Snapshot](https://github.com/fossasia/magic-epaper-app/pulls?q=is%3Apr+is%3Amerged+author%3Abhavjsh+weather)** card templates.
-- Added **[Contact Business](https://github.com/fossasia/magic-epaper-app/pulls?q=is%3Apr+is%3Amerged+author%3Abhavjsh+contact+business)** card templates.
-- Added **[Calendar](https://github.com/fossasia/magic-epaper-app/pulls?q=is%3Apr+is%3Amerged+author%3Abhavjsh+calendar)** card templates.
-- Added **[Restaurant Menu](https://github.com/fossasia/magic-epaper-app/pulls?q=is%3Apr+is%3Amerged+author%3Abhavjsh+restaurant)** card templates.
-- Added **[bulk CSV data import](https://github.com/fossasia/magic-epaper-app/pulls?q=is%3Apr+is%3Amerged+author%3Abhavjsh+CSV)** for card templates.
+- Added **[QR Tag](https://github.com/fossasia/magic-epaper-app/pull/559)** card templates.
+- Added **[Weather Snapshot](https://github.com/fossasia/magic-epaper-app/pull/557)** card templates.
+- Added **[Contact Business](https://github.com/fossasia/magic-epaper-app/pull/551)** card templates.
+- Added **[Calendar](https://github.com/fossasia/magic-epaper-app/pull/548)** card templates.
+- Added **[Restaurant Menu](https://github.com/fossasia/magic-epaper-app/pull/567)** card templates.
+- Added **[bulk CSV data import](https://github.com/fossasia/magic-epaper-app/pull/544)** for card templates.
 - Implemented the **[OCR scan](https://github.com/fossasia/magic-epaper-app/pull/666)** feature.
 - Implemented the **[sketch filter](https://github.com/fossasia/magic-epaper-app/pull/692)**.
-- Improved the overall **[NFC workflow](https://github.com/fossasia/magic-epaper-app/pulls?q=is%3Apr+is%3Amerged+author%3Abhavjsh+NFC)**.
-- Added a dedicated **[NFC command console](https://github.com/fossasia/magic-epaper-app/pulls?q=is%3Apr+is%3Amerged+author%3Abhavjsh+NFC+console)**.
-- Added a **[sticker vault](https://github.com/fossasia/magic-epaper-app/pulls?q=is%3Apr+is%3Amerged+author%3Abhavjsh+sticker)** to the native canvas editor.
-- Optimized the **[Rust dithering pipeline](https://github.com/fossasia/magic-epaper-app/pulls?q=is%3Apr+is%3Amerged+author%3Abhavjsh+Rust+dithering)** for better performance.
-- Added support for the **[Waveshare 1.54" NFC display](https://github.com/fossasia/magic-epaper-app/pulls?q=is%3Apr+is%3Amerged+author%3Abhavjsh+Waveshare+1.54)**.
-- Added support for the **[Waveshare 2.13" e-Paper (G) 4-color NFC display](https://github.com/fossasia/magic-epaper-app/pulls?q=is%3Apr+is%3Amerged+author%3Abhavjsh+Waveshare+2.13)**.
-- Added support for the **[Santek EZ Sign 2.13" NFC e-paper display](https://github.com/fossasia/magic-epaper-app/pulls?q=is%3Apr+is%3Amerged+author%3Abhavjsh+Santek)**.
-- Reorganized files according to **[plural and `snake_case` conventions](https://github.com/fossasia/magic-epaper-app/pulls?q=is%3Apr+is%3Amerged+author%3Abhavjsh+snake_case)**.
-- Moved **[screens and widgets out of utility folders](https://github.com/fossasia/magic-epaper-app/pulls?q=is%3Apr+is%3Amerged+author%3Abhavjsh+widgets)**.
-- Removed **[duplicate and redundant code](https://github.com/fossasia/magic-epaper-app/pulls?q=is%3Apr+is%3Amerged+author%3Abhavjsh+duplicate)**.
-- **[Restructured the README](https://github.com/fossasia/magic-epaper-app/pulls?q=is%3Apr+is%3Amerged+author%3Abhavjsh+README)**.
-- Upgraded **[Flutter](https://github.com/fossasia/magic-epaper-app/pulls?q=is%3Apr+is%3Amerged+author%3Abhavjsh+Flutter)**, **[Gradle](https://github.com/fossasia/magic-epaper-app/pulls?q=is%3Apr+is%3Amerged+author%3Abhavjsh+Gradle)**, and **[iOS deployment targets](https://github.com/fossasia/magic-epaper-app/pulls?q=is%3Apr+is%3Amerged+author%3Abhavjsh+iOS)**.
+- Improved the overall **[NFC workflow](https://github.com/fossasia/magic-epaper-app/pull/560)**.
+- Added a dedicated **[NFC command console](https://github.com/fossasia/magic-epaper-app/pull/616)**.
+- Added a **[sticker vault](https://github.com/fossasia/magic-epaper-app/pull/615)** to the native canvas editor.
+- Optimized the **[Rust dithering pipeline](https://github.com/fossasia/magic-epaper-app/pull/626)** for better performance.
+- Added support for the **[Waveshare 1.54" NFC display](https://github.com/fossasia/magic-epaper-app/pull/638)**.
+- Added support for the **[Waveshare 2.13" e-Paper (G) 4-color NFC display](https://github.com/fossasia/magic-epaper-app/pull/527)**.
+- Added support for the **[Santek EZ Sign 2.13" NFC e-paper display](https://github.com/fossasia/magic-epaper-app/pull/688)**.
+- Reorganized files according to **[plural naming conventions](https://github.com/fossasia/magic-epaper-app/pull/675)**.
+- Renamed **[mismatched and duplicate filenames](https://github.com/fossasia/magic-epaper-app/pull/673)**.
+- Moved **[screens and widgets out of utility folders](https://github.com/fossasia/magic-epaper-app/pull/674)**.
+- Cleaned up **[filenames across the codebase](https://github.com/fossasia/magic-epaper-app/pull/672)**.
+- **[Restructured the README](https://github.com/fossasia/magic-epaper-app/pull/625)**.
+- Upgraded **[Flutter](https://github.com/fossasia/magic-epaper-app/pull/609)**, **[Gradle](https://github.com/fossasia/magic-epaper-app/pull/587)**, and **[iOS deployment targets](https://github.com/fossasia/magic-epaper-app/pull/587)**.
 
 **65 merged pull requests in total, including 27 during this phase**
 
